@@ -1,0 +1,13 @@
+p {
+  display: flex;
+  justify-content: center;
+}
+
+.decorate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25%;
+  gap: 30px;
+  
+}

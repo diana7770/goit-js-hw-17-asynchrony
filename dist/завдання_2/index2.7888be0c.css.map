@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/завдання_2/style2.css"],"sourcesContent":[".item {\r\n  width: 50px;\r\n  height: 50px;\r\n  background-color: blue;\r\n  margin: 10px;\r\n  transition: all 0.5s ease;\r\n}\r\n"],"names":[],"version":3,"file":"index2.7888be0c.css.map","sourceRoot":"/__parcel_source_root/"}
