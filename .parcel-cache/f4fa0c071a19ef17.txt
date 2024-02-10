@@ -1,4 +1,5 @@
-6420
+6440
+76C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.cache133520228064752943 1
 104C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\lib\syntax\atrule\nest.js133519904399085412 0
 69C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\package.json133520226503105258 0
 101C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\source-map\lib\binary-search.js133519904339143218 0
@@ -7,7 +8,7 @@
 112C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\css3-tabsize.js133519904402455194 0
 92C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\term-size\package.json133519904338454351 0
 145C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133519904326876564 0
-61C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist133520220470896127 1
+61C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist133520228047580609 1
 101C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\regions\BA.js133519904371135736 0
 111C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\electron-to-chromium\chromium-versions.js133519904321641895 0
 87C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\p-locate\index.js133519904935591957 0
@@ -28,7 +29,7 @@
 86C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lmdb\src\txn.cpp133519904383642314 0
 95C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\string-width\package.json133519904324979972 0
 119C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\csso\node_modules\css-tree\lib\syntax\node\Url.js133519904402022390 0
-69C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules133519904942515170 1
+69C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules133520228064752943 1
 109C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\csso\node_modules\css-tree\package.json133519904402746794 0
 124C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\import.js133519904395736645 0
 80C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\concat-map133519904937054410 1
@@ -201,6 +202,11 @@
 80C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\array-uniq133519904936075836 1
 86C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lmdb\src\dbi.cpp133519904382507219 0
 99C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lmdb\dependencies\lz4\LICENSE133519904347251499 0
+96C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\htmlparser2\lib\index.d.ts133519904348212967 0
+111C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\cjs\syntax\node\TypeSelector.cjs133519904388385187 0
+105C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\svgo\lib\svgo\css-select-adapter.js133519904359199304 0
+81C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\detect-libc133519904333341905 1
+137C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133519904435727984 0
 100C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\domutils\lib\manipulation.d.ts133519904355969560 0
 96C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features133519904429902287 1
 111C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\make-dir\node_modules\semver\package.json133519904936984449 0
@@ -208,11 +214,6 @@
 97C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\source-map\lib\array-set.js133519904332570440 0
 74C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\csso133519904384449128 1
 84C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\domelementtype133519904339233171 1
-96C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\htmlparser2\lib\index.d.ts133519904348212967 0
-111C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\cjs\syntax\node\TypeSelector.cjs133519904388385187 0
-105C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\svgo\lib\svgo\css-select-adapter.js133519904359199304 0
-81C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\detect-libc133519904333341905 1
-137C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133519904435727984 0
 76C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\base-x133519904328093070 1
 128C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\csso\node_modules\css-tree\lib\syntax\node\TypeSelector.js133519904401862476 0
 128C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT133519904325139881 0
@@ -538,7 +539,6 @@
 92C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\json5\lib\stringify.js133519904341422259 0
 96C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\async\internal\awaitify.js133519904938289421 0
 88C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\msgpackr\pack.d.ts133519904373432056 0
-91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\csso\dist\csso.esm.js133519904376261984 0
 79C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lru-cache133519904326978661 1
 126C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\path.js133519904364351783 0
 100C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\type-fest\ts41\kebab-case.d.ts133519904352830132 0
@@ -647,6 +647,7 @@
 96C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\nth-check\lib\esm\index.js133519904328969909 0
 81C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\path-exists133519904936437092 1
 86C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\path-is-absolute133519904936015880 1
+95C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_3\index3.5c0277df.js.map133520228047844677 0
 76C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\semver133519904369617038 1
 79C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\path-type133519904329878092 1
 129C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@babel\code-frame\node_modules\color-convert\conversions.js133519904326152943 0
@@ -1004,6 +1005,7 @@
 108C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\cjs\parser\parse-selector.cjs133519904383923810 0
 124C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133519904347341404 0
 125C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h133519904385820009 0
+95C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_4\index4.8d6e6ab0.js.map133520228047844677 0
 107C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\type-fest\source\merge-exclusive.d.ts133519904354417768 0
 122C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\keyboardevent-location.js133519904413820132 0
 98C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\make-dir\node_modules\semver133519904937104384 1
@@ -1120,8 +1122,8 @@
 105C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\utils\src\getCertificate.js133519904355781590 0
 95C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@swc\helpers\_\_ts_values133519904406359427 1
 116C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\electron-to-chromium\full-chromium-versions.js133519904327190439 0
-91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\trim-repeated\license133519904935714095 0
 129C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133519904359473036 0
+91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\trim-repeated\license133519904935714095 0
 118C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@babel\code-frame\node_modules\has-flag\index.js133519904322571994 0
 94C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\term-size\vendor\windows133519904332792212 1
 100C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\js-yaml\lib\schema\failsafe.js133519904342199282 0
@@ -1291,6 +1293,7 @@
 102C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\svgo\plugins\removeDimensions.js133519904376182021 0
 99C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\svgo\plugins\removeDoctype.js133519904376391907 0
 105C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\regions\alt-an.js133519904351318193 0
+85C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.cache\gh-pages133520228077709236 1
 95C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\fs-extra\lib\copy\copy.js133519904935935913 0
 78C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lmdb\bin133519904388924970 1
 95C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-swc\lib133519904322462052 1
@@ -1887,6 +1890,7 @@
 91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\p-locate\package.json133519904934515804 0
 90C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\ordered-binary\.idea133519904348182977 1
 126C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@swc\helpers\_\_is_native_reflect_construct\package.json133519904404004039 0
+92C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2\index2.79041b89.css133520228047540663 0
 82C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lmdb\open.js133519904389773215 0
 101C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\regions\MP.js133519904416747367 0
 118C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@swc\helpers\_\_array_like_to_array\package.json133519904396382007 0
@@ -2213,7 +2217,7 @@
 88C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lmdb\src\windows.c133519904380252597 0
 122C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\scrollintoviewifneeded.js133519904423768942 0
 94C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\filenamify\filenamify.js133519904935734082 0
-72C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\index.html133520220470304303 0
+72C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\index.html133520228047540663 0
 138C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Hash.js133519904373803711 0
 109C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\lib\syntax\atrule\font-face.js133519904395204922 0
 130C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133519904388736956 0
@@ -2414,6 +2418,7 @@
 116C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\dom-serializer\node_modules\entities\readme.md133519904348504397 0
 101C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\regions\FJ.js133519904406257086 0
 90C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\json5\lib\index.d.ts133519904351378158 0
+154C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.cache\gh-pages\https!github.com!diana7770!goit-js-hw-17-asynchrony.git\.git\objects133520228426135664 1
 99C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-select\lib\types.d.ts.map133519904376050609 0
 91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\entities\package.json133519904345859591 0
 134C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\core\test\fixtures\custom-format-infer-type\package.json133519904396806012 0
@@ -3356,6 +3361,7 @@
 102C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\cjs\syntax\node\CDO.cjs133519904345777470 0
 99C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-select\lib\esm\index.d.ts133519904380072699 0
 90C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\csso\lib\restructure133519904383286122 1
+91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_4\index4.8d6e6ab0.js133520228047550620 0
 89C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\csso\lib\version.js133519904384085611 0
 120C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-select\node_modules\domutils\lib\legacy.js.map133519904362566370 0
 105C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\forms.js133519904407454589 0
@@ -3384,6 +3390,7 @@
 98C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\csso\lib\clean\WhiteSpace.js133519904384205544 0
 93C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@swc\helpers\_\_type_of133519904406429392 1
 101C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\regions\PW.js133519904422718482 0
+91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\csso\dist\csso.esm.js133519904376261984 0
 126C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@babel\helper-validator-identifier\lib\identifier.js.map133519904329041575 0
 101C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\regions\SD.js133519904423788925 0
 95C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\core\package.json133519904396122138 0
@@ -3679,7 +3686,7 @@
 99C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\cjs\utils\string.cjs133519904386730284 0
 109C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\cjs\tokenizer\adopt-buffer.cjs133519904323416302 0
 88C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\argparse\README.md133519904340644724 0
-84C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_3\index3.html133520220470284300 0
+84C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_3\index3.html133520228047550620 0
 100C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\cli-progress\presets\legacy.js133519904349876953 0
 101C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\regions\IR.js133519904413207026 0
 118C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\cjs\tokenizer\char-code-definitions.cjs133519904347088426 0
@@ -3717,7 +3724,7 @@
 110C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\cjs\syntax\node\index-parse.cjs133519904374242341 0
 111C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\cjs\syntax\node\MediaFeature.cjs133519904380718403 0
 114C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@swc\helpers\_\_sliced_to_array\package.json133519904405446394 0
-84C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_1\index1.html133520220470284300 0
+84C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_1\index1.html133520228047530645 0
 116C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\cjs\syntax\node\MediaFeatureRange.cjs133519904380950273 0
 120C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\high-resolution-time.js133519904410193420 0
 109C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\css-tree\cjs\syntax\node\MediaQuery.cjs133519904381280084 0
@@ -4423,6 +4430,7 @@
 96C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@trysound\sax\package.json133519904326958667 0
 113C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\workers\lib\process\ProcessChild.js133519904359886923 0
 117C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\css-cascade-scope.js133519904390753191 0
+91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2\index2.c9232e4a.js133520228047550620 0
 146C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\index.js133519904340876181 0
 120C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\css-case-insensitive.js133519904390899932 0
 121C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\css-container-queries.js133519904391524020 0
@@ -4519,6 +4527,7 @@
 114C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\css3-boxsizing.js133519904402122333 0
 83C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\async\some.js133519904940944388 0
 108C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\push-api.js133519904422698489 0
+157C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.cache\gh-pages\https!github.com!diana7770!goit-js-hw-17-asynchrony.git\.git\refs\heads133520228078167056 1
 111C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\css3-colors.js133519904402192301 0
 95C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2\index2.1f0ad85e.js.map133520220470866151 0
 117C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\css3-cursors-grab.js133519904402262247 0
@@ -4758,6 +4767,7 @@
 111C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\wbr-element.js133519904427921309 0
 113C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\web-animation.js133519904427941296 0
 108C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\webauthn.js133519904428082110 0
+96C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2\index2.79041b89.css.map133520228047844677 0
 106C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\webhid.js133519904428212048 0
 116C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\webkit-user-drag.js133519904428351963 0
 106C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\caniuse-lite\data\features\webnfc.js133519904428575866 0
@@ -4889,6 +4899,7 @@
 116C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\abortcontroller-polyfill\src\abortableFetch.js133519904323112634 0
 117C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\abortcontroller-polyfill\src\abortcontroller.js133519904335290784 0
 110C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\abortcontroller-polyfill\src\polyfill.js133519904342099328 0
+175C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.cache\gh-pages\https!github.com!diana7770!goit-js-hw-17-asynchrony.git\.git\objects\pack\tmp_pack_SlwQIS133520228425374980 0
 118C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\abortcontroller-polyfill\dist\abortcontroller.js133519904332912231 0
 115C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\abortcontroller-polyfill\dist\umd-polyfill.js133519904344754877 0
 83C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@trysound\sax133519904328969909 1
@@ -4928,7 +4939,7 @@
 121C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose133519904402022390 1
 98C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@swc\helpers\_\_create_super133519904402122333 1
 94C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@swc\helpers\_\_decorate133519904402242261 1
-84C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_4\index4.html133520220470284300 0
+84C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_4\index4.html133520228047540663 0
 94C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@swc\helpers\_\_defaults133519904402313730 1
 125C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\transformer-posthtml\src\PostHTMLTransformer.js133519904332286539 0
 101C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@swc\helpers\_\_define_property133519904402556908 1
@@ -5536,6 +5547,7 @@
 103C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\runtime-react-refresh\src133519904325893087 1
 126C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js133519904326696659 0
 96C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\runtime-js\LICENSE133519904323743832 0
+146C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.cache\gh-pages\https!github.com!diana7770!goit-js-hw-17-asynchrony.git\.git133520228426125662 1
 135C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\procedure.d.ts133519904362606351 0
 101C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\runtime-js\package.json133519904367997733 0
 100C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\runtime-js\src\helpers133519904367147787 1
@@ -6021,6 +6033,7 @@
 135C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Comment.js133519904350646695 0
 139C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Declaration.js133519904360812726 0
 131C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Raw.js133519904366832675 0
+141C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.cache\gh-pages\https!github.com!diana7770!goit-js-hw-17-asynchrony.git133520228077759215 1
 132C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Rule.js133519904367312827 0
 133C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\utils.js133519904370228553 0
 143C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Block.js133519904342740658 0
@@ -6039,7 +6052,7 @@
 141C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\const.js133519904353553343 0
 141C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\index.js133519904378988881 0
 141C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\utils.js133519904389503375 0
-72C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_3133520220470922972 1
+72C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_3133520228047874664 1
 136C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config133519904390054960 1
 139C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\create.js133519904359039396 0
 135C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope133519904389683280 1
@@ -6390,6 +6403,9 @@
 123C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@babel\code-frame\node_modules\chalk\types\index.d.ts133519904336488072 0
 121C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@babel\code-frame\node_modules\ansi-styles\index.js133519904322591972 0
 120C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\@babel\code-frame\node_modules\ansi-styles\license133519904325306204 0
+151C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.cache\gh-pages\https!github.com!diana7770!goit-js-hw-17-asynchrony.git\.git\refs133520228078167056 1
+156C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.cache\gh-pages\https!github.com!diana7770!goit-js-hw-17-asynchrony.git\.git\refs\tags133520228078167056 1
+159C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.cache\gh-pages\https!github.com!diana7770!goit-js-hw-17-asynchrony.git\.git\objects\pack133520228087712761 1
 91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.bin\browserslist.cmd133519904435558083 0
 86C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.bin\detect-libc133519904436111400 0
 90C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.bin\detect-libc.cmd133519904436171358 0
@@ -6410,12 +6426,16 @@
 85C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.bin\semver.cmd133519904435767961 0
 97C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\node_modules\.bin\update-browserslist-db133519904435789638 0
 98C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\goit-js-hw-17-asynchrony.59712999.js133520220470304303 0
-72C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_1133520220470907829 1
-72C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2133520220470932966 1
-72C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_4133520220470932966 1
+72C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_1133520228047854670 1
+72C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2133520228047874664 1
+72C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_4133520228047854670 1
+91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_3\index3.5c0277df.js133520228047550620 0
 91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_3\index3.e823a4ec.js133520220470314285 0
 95C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_3\index3.e823a4ec.js.map133520220470866151 0
 91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2\index2.1f0ad85e.js133520220470304303 0
 92C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2\index2.7888be0c.css133520220470304303 0
 96C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2\index2.7888be0c.css.map133520220470856161 0
-84C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2\index2.html133520212374441010 0
+95C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2\index2.c9232e4a.js.map133520228047844677 0
+84C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_2\index2.html133520228047540663 0
+91C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_1\index1.57706479.js133520228047540663 0
+95C:\Users\Admin\Documents\GitHub\goit-js-hw-17-asynchrony\dist\завдання_1\index1.57706479.js.map133520228047834690 0

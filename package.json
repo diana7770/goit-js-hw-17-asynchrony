@@ -2,7 +2,7 @@
   "name": "goit-js-hw-17-asynchrony",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "homepage":"https://diana7770.github.io/goit-js-hw-17-asynchrony/",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url /goit-js-hw-17-asynchrony",
@@ -18,7 +18,6 @@
   "bugs": {
     "url": "https://github.com/diana7770/goit-js-hw-17-asynchrony/issues"
   },
-  "homepage": "https://github.com/diana7770/goit-js-hw-17-asynchrony#readme",
   "dependencies": {
     "gh-pages": "^6.1.1",
     "parcel": "^2.11.0"
