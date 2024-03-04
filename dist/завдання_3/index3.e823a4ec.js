@@ -142,15 +142,16 @@
       this[globalName] = mainExports;
     }
   }
-})({"eUF8Y":[function(require,module,exports) {
+})({"c1zSv":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "d6ea1d42532a7575";
+var HMR_USE_SSE = false;
 module.bundle.HMR_BUNDLE_ID = "aadc3b3be823a4ec";
 "use strict";
-/* global HMR_HOST, HMR_PORT, HMR_ENV_HASH, HMR_SECURE, chrome, browser, __parcel__import__, __parcel__importScripts__, ServiceWorkerGlobalScope */ /*::
+/* global HMR_HOST, HMR_PORT, HMR_ENV_HASH, HMR_SECURE, HMR_USE_SSE, chrome, browser, __parcel__import__, __parcel__importScripts__, ServiceWorkerGlobalScope */ /*::
 import type {
   HMRAsset,
   HMRMessage,
@@ -189,6 +190,7 @@ declare var HMR_HOST: string;
 declare var HMR_PORT: string;
 declare var HMR_ENV_HASH: string;
 declare var HMR_SECURE: boolean;
+declare var HMR_USE_SSE: boolean;
 declare var chrome: ExtensionContext;
 declare var browser: ExtensionContext;
 declare var __parcel__import__: (string) => Promise<void>;
@@ -232,7 +234,8 @@ if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== "undefined") {
         "0.0.0.0"
     ].includes(hostname) ? "wss" : "ws";
     var ws;
-    try {
+    if (HMR_USE_SSE) ws = new EventSource("/__parcel_hmr");
+    else try {
         ws = new WebSocket(protocol + "://" + hostname + (port ? ":" + port : "") + "/");
     } catch (err) {
         if (err.message) console.error(err.message);
@@ -302,12 +305,14 @@ if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== "undefined") {
             }
         }
     };
-    ws.onerror = function(e) {
-        if (e.message) console.error(e.message);
-    };
-    ws.onclose = function() {
-        console.warn("[parcel] \uD83D\uDEA8 Connection to the HMR server was lost");
-    };
+    if (ws instanceof WebSocket) {
+        ws.onerror = function(e) {
+            if (e.message) console.error(e.message);
+        };
+        ws.onclose = function() {
+            console.warn("[parcel] \uD83D\uDEA8 Connection to the HMR server was lost");
+        };
+    }
 }
 function removeErrorOverlay() {
     var overlay = document.getElementById(OVERLAY_ID);
@@ -579,24 +584,27 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"RF5O6":[function(require,module,exports) {
-const gameElement = document.getElementById("gameEl");
-const scoreElement = document.getElementById("score");
-let score = 0;
+let button = document.getElementById("button");
+let score = document.getElementById("score");
+let count = 0;
 let timer = 10;
 const gameInterval = setInterval(endGame, 1000);
 function endGame() {
     timer--;
     if (timer === 0) {
         clearInterval(gameInterval);
-        alert(`\u{412}\u{430}\u{448} \u{440}\u{435}\u{437}\u{443}\u{43B}\u{44C}\u{442}\u{430}\u{442}: ${score}`);
+        alert(`\u{412}\u{430}\u{448} \u{440}\u{435}\u{437}\u{443}\u{43B}\u{44C}\u{442}\u{430}\u{442}: ${count}`);
     }
 }
-function writeScore() {
-    score++;
-    scoreElement.textContent = score;
-}
-gameElement.addEventListener("click", writeScore);
+button.addEventListener("click", function() {
+    count++;
+    score.textContent = "\u041E\u0447\u043A\u0438: " + count;
+    let randomX = Math.random() * window.innerWidth;
+    let randomY = Math.random() * window.innerHeight;
+    button.style.left = randomX + "px";
+    button.style.top = randomY + "px";
+});
 
-},{}]},["eUF8Y","RF5O6"], "RF5O6", "parcelRequire8477")
+},{}]},["c1zSv","RF5O6"], "RF5O6", "parcelRequire8477")
 
 //# sourceMappingURL=index3.e823a4ec.js.map

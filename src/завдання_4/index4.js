@@ -10,6 +10,6 @@ function remodelText() {
   if (input.value === "") {
     return;
   } else {
-    alert(`Ви ввели ${input.value} секунд`);
+    alert(`Ви ввели ${input.value} секунди)`);
   }
 }

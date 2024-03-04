@@ -1,0 +1,14 @@
+p {
+  justify-content: center;
+  display: flex;
+}
+
+#button {
+  color: #000000f8;
+  cursor: pointer;
+  background-color: #460202e7;
+  border: none;
+  padding: 12px 6px;
+  position: absolute;
+}
+/*# sourceMappingURL=index3.12f3413b.css.map */
