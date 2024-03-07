@@ -19,6 +19,7 @@
     "url": "https://github.com/diana7770/goit-js-hw-17-asynchrony/issues"
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "parcel": "^2.12.0"
   }
 }

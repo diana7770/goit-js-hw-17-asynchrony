@@ -1,0 +1,2 @@
+let t=document.getElementById("button"),e=document.getElementById("score"),n=0,u=10;const o=setInterval(function(){0==--u&&(clearInterval(o),alert(`\u{412}\u{430}\u{448} \u{440}\u{435}\u{437}\u{443}\u{43B}\u{44C}\u{442}\u{430}\u{442}: ${n}`))},1e3);t.addEventListener("click",function(){n++,e.textContent="Очки: "+n;let u=Math.random()*window.innerWidth,o=Math.random()*window.innerHeight;t.style.left=u+"px",t.style.top=o+"px"});
+//# sourceMappingURL=index3.eab63770.js.map
